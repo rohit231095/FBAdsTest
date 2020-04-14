@@ -1,0 +1,4 @@
+module.exports = {
+    accID: "212597630195272",
+    accessToken: "EAADq6YMna48BALapyww5NB10f5TU9CO7eNRybxp8w7ZCstMFjVZA3sa9Dev0VN8UBi2AmBtWNxqilKZCgorlM3ATx4ZBnRFcfQJnfhk8prknIz0Ez4CtNHIbQicdUf4e4NOo2AnuxTEHl3dF2tEoKwtw3ZBQvSGKqOhqy4gZBni9X4G5909ZCGuZCqHuZBq4VPcUZD"
+}
